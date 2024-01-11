@@ -1,0 +1,15 @@
+../Core/Inc/frameBuffer.c:6:6:FrameBuffer_byteOR	2
+../Core/Inc/frameBuffer.c:12:6:FrameBuffer_byteAND	2
+../Core/Inc/frameBuffer.c:18:6:FrameBuffer_byteFLIP	2
+../Core/Inc/frameBuffer.c:24:6:FrameBuffer_setPixel	13
+../Core/Inc/frameBuffer.c:48:6:FrameBuffer_clear	1
+../Core/Inc/frameBuffer.c:52:5:FrameBuffer_getPixel	4
+../Core/Inc/frameBuffer.c:64:6:FrameBuffer_fill	1
+../Core/Inc/frameBuffer.c:68:6:FrameBuffer_addBitmapImage	5
+../Core/Inc/frameBuffer.c:88:6:FrameBuffer_drawRect	1
+../Core/Inc/frameBuffer.c:95:6:FrameBuffer_drawLine	16
+../Core/Inc/frameBuffer.c:179:6:FrameBuffer_drawFastHLine	2
+../Core/Inc/frameBuffer.c:186:6:FrameBuffer_drawVerticalLine	2
+../Core/Inc/frameBuffer.c:194:6:FrameBuffer_fillRect	2
+../Core/Inc/frameBuffer.c:203:6:FrameBuffer_drawChar	10
+../Core/Inc/frameBuffer.c:238:6:FrameBuffer_drawText	2

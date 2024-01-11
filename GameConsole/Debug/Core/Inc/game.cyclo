@@ -1,0 +1,9 @@
+../Core/Inc/game.c:16:6:initGame	1
+../Core/Inc/game.c:23:6:updateGame	15
+../Core/Inc/game.c:82:6:enterScreen	6
+../Core/Inc/game.c:115:6:exitScreen	1
+../Core/Inc/game.c:119:6:InBox	3
+../Core/Inc/game.c:132:6:spawnArrow	5
+../Core/Inc/game.c:171:6:updateArrow	15
+../Core/Inc/game.c:234:6:drawBlocker	5
+../Core/Inc/game.c:257:6:updateBlocker	5

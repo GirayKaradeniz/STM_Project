@@ -1,0 +1,9 @@
+../Core/Inc/game.c:16:6:initGame	16	static
+../Core/Inc/game.c:23:6:updateGame	48	static
+../Core/Inc/game.c:82:6:enterScreen	32	static
+../Core/Inc/game.c:115:6:exitScreen	4	static
+../Core/Inc/game.c:119:6:InBox	24	static
+../Core/Inc/game.c:132:6:spawnArrow	32	static
+../Core/Inc/game.c:171:6:updateArrow	32	static
+../Core/Inc/game.c:234:6:drawBlocker	24	static
+../Core/Inc/game.c:257:6:updateBlocker	8	static

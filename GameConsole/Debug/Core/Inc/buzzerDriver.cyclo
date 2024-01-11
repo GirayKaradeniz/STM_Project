@@ -1,0 +1,2 @@
+../Core/Inc/buzzerDriver.c:28:6:buzzerSetNewFrequency	2
+../Core/Inc/buzzerDriver.c:41:6:musicHandler	6
